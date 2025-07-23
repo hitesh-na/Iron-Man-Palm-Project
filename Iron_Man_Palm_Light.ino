@@ -1,4 +1,4 @@
-#include <Adafruit_NeoPixel.h>
+#include <Adafruit_NeoPixel.h> 
 
 #define LED_PIN 6       // NeoPixel ring data pin
 #define NUM_LEDS 12     // Number of LEDs
